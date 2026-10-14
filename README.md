@@ -32,6 +32,5 @@ I'm a passionate beginner software developer on a mission to build clean, functi
 ---
 
 ### 📫 Connect With Me
-- 💼 [LinkedIn](https://linkedin.com) *(Add your link)*
-- 🌐 [Portfolio](https://yourportfolio.com) *(Add your link)*
-- 📧 Email: your.email@example.com
+- instagram: @S4ddle_sage
+- 📧 Email: hardikgyawali8@gmail.com
