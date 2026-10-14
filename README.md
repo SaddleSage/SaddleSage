@@ -4,9 +4,23 @@
 
 **Student · Beginner Front-End Designer · Aspiring Data Analyst**
 
+<img src="https://img.shields.io/badge/Status-Student-3b82f6?style=flat-square" alt="Status" />
+<img src="https://img.shields.io/badge/Level-Beginner-22c55e?style=flat-square" alt="Level" />
+<img src="https://img.shields.io/badge/Focus-Front--End_Design-f59e0b?style=flat-square" alt="Focus" />
+<img src="https://img.shields.io/badge/Exploring-Data_Analysis-8b5cf6?style=flat-square" alt="Exploring" />
+<img src="https://img.shields.io/badge/Open_To-Learning_%26_Collabs-ef4444?style=flat-square" alt="Open to" />
+
+<br><br>
+
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=3B82F6&center=true&vCenter=true&width=560&lines=I'm+a+student+and+a+complete+beginner;Learning+front-end+web+design;Taking+my+first+steps+in+data+analysis;Building+things+one+commit+at+a+time" alt="Typing intro" />
 </a>
+
+<br>
+
+<a href="mailto:hardikgyawali8@gmail.com">Email</a> ·
+<a href="https://instagram.com/S4ddle_sage">Instagram</a> ·
+<a href="https://github.com/SaddleSage?tab=repositories">Repositories</a>
 
 <br><br>
 
@@ -16,16 +30,64 @@
 
 ---
 
-## About Me
+## Quick Intro
 
-I'm a student who is just starting out in tech, and honestly a beginner in almost everything. I'm not pretending to be an expert. I'm here to learn in public, build small things, break them, and fix them.
+I'm a student who is just starting out in tech, and honestly a beginner in almost everything. I'm not pretending to be an expert. I'm here to learn in public, build small things, break them, and fix them. This page is my progress log.
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
+**Snapshot**
+
+| | |
+|---|---|
+| **Name** | SaddleSage |
+| **Role** | Student |
+| **Level** | Beginner |
+| **Main focus** | Front-end web design |
+| **Also exploring** | Data analysis |
+| **Editor** | VS Code |
+| **Version control** | Git and GitHub |
+
+  </td>
+  <td width="50%" valign="top">
+
+**Right now**
+
+- 🎨 Learning HTML, CSS and JavaScript
+- ⚛️ Getting started with React
+- 🐍 Practicing Python and Django basics
+- 📊 Taking first steps in data analysis
+- 🧪 Building small practice projects
+- 🤝 Looking toward open source
+
+  </td>
+  </tr>
+</table>
+
+---
+
+## About Me
 
 - 🎓 Student, learning something new every day
 - 🎨 Focused on **front-end web design** (not full-stack, at least for now)
 - 📊 Just started exploring **data analysis**
 - 🌱 Building small projects to practice what I learn
 - 🤝 Hoping to contribute to open source once I'm ready
+- 📚 I learn best by building, so most of my learning happens in projects
 - 💬 Always happy to learn from others, so feel free to reach out
+
+---
+
+## What I'm Building
+
+- **Practice websites:** small pages to get comfortable with HTML, CSS and layouts
+- **Beginner-friendly projects:** simple web tools I can finish and learn from
+- **A portfolio site:** a place to show my progress as I improve
+- **Small data exercises:** playing with Python and real datasets
+
+> Nothing fancy yet. Every project is a step forward.
 
 ---
 
@@ -71,6 +133,29 @@ Django      [██░░░░░░░░]  20%
 | Frameworks / Libraries | React, Django |
 | Tools | Git, GitHub, VS Code |
 | Interests | Front-end web design, data analysis |
+
+---
+
+## Learning Roadmap
+
+| Stage | Topic | Status |
+|-------|-------|--------|
+| 1 | HTML and CSS fundamentals | ✅ Done the basics |
+| 2 | JavaScript fundamentals | 🔄 In progress |
+| 3 | Git and GitHub workflow | 🔄 In progress |
+| 4 | React | ⏳ Starting |
+| 5 | Python for data analysis | ⏳ Starting |
+| 6 | Django | ⏳ Up next |
+| 7 | First open-source contribution | 🎯 Future goal |
+
+---
+
+## Open To
+
+- 🤝 Learning together with other beginners
+- 💡 Advice, feedback and code reviews on my projects
+- 🛠️ Small beginner-friendly collaborations
+- 🌍 Open-source projects that welcome first-timers
 
 ---
 
@@ -134,3 +219,5 @@ Django      [██░░░░░░░░]  20%
 </div>
 ````
 ````
+
+If you want it even more personal, send me details like your school or grade, location, hobbies, or projects you've already made. I'd add them to the Snapshot table and "What I'm Building" instead of guessing.
