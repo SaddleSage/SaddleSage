@@ -1,83 +1,138 @@
-<h1 align="center">Hi, I'm Saddlesage 👋</h1>
+<div align="center">
 
-<p align="center">
-  Student · Beginner in Front-End Web Design · Aspiring Data Analyst
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:3b82f6&height=190&section=header&text=SaddleSage&fontColor=ffffff&fontSize=60&fontAlignY=38&desc=Student%20%7C%20Beginner%20Front-End%20Designer%20%7C%20Aspiring%20Data%20Analyst&descSize=16&descAlignY=60" alt="SaddleSage banner" />
 
-<p align="center">
-  I'm just getting started and learning something new every day.<br>
-  I enjoy building small projects, making mistakes, and getting better one step at a time.
-</p>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=3B82F6&center=true&vCenter=true&width=560&lines=Hi%2C+I'm+SaddleSage+%F0%9F%91%8B;I'm+a+student+and+a+complete+beginner;Learning+front-end+web+design;Taking+my+first+steps+in+data+analysis;Building+things+one+commit+at+a+time" alt="Typing intro" />
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=SaddleSage&label=Profile+views&color=3b82f6&style=flat-square" alt="Profile views" />
+
+</div>
 
 ---
 
 ## About Me
 
-- 🎓 I'm a student, and a beginner in pretty much everything I do
-- 🎨 Learning web design, focused on the front end
-- 📊 Taking my first steps toward becoming a data analyst
-- 🌱 Practicing with small projects and hands-on building
-- 🤝 Hoping to contribute to open-source projects one day
+I'm a student who is just starting out in tech, and honestly a beginner in almost everything. I'm not pretending to be an expert. I'm here to learn in public, build small things, break them, and fix them.
+
+- 🎓 Student, learning something new every day
+- 🎨 Focused on **front-end web design** (not full-stack, at least for now)
+- 📊 Just started exploring **data analysis**
+- 🌱 Building small projects to practice what I learn
+- 🤝 Hoping to contribute to open source once I'm ready
+- 💬 Always happy to learn from others, so feel free to reach out
 
 ---
 
-## Currently Learning
+## Currently Working On
 
-- HTML, CSS and JavaScript for front-end design
-- React for building user interfaces
-- Python and Django
-- The basics of data analysis
+| Area | Focus | Level |
+|------|-------|-------|
+| Web Design | HTML, CSS, JavaScript, responsive layouts | Beginner |
+| Front-End | React and component-based UI | Just started |
+| Backend Basics | Python and Django | Just started |
+| Data | Python for data analysis | Just started |
+| Workflow | Git, GitHub, VS Code | Getting comfortable |
+
+---
+
+## Learning Progress
+
+````text
+HTML        [████████░░]  80%
+CSS         [██████░░░░]  60%
+JavaScript  [████░░░░░░]  40%
+Python      [████░░░░░░]  40%
+Git/GitHub  [█████░░░░░]  50%
+React       [██░░░░░░░░]  20%
+Django      [██░░░░░░░░]  20%
+````
+
+<sub>Rough self-assessment. Still early on the journey.</sub>
 
 ---
 
 ## Tech Stack
 
-**Languages**
+<div align="center">
 
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,js,python,react,django,git,github,vscode&perline=9" alt="Tech stack icons" />
 
-**Frameworks**
+</div>
 
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-</p>
+| Category | Tools |
+|----------|-------|
+| Languages | HTML5, CSS3, JavaScript, Python |
+| Frameworks / Libraries | React, Django |
+| Tools | Git, GitHub, VS Code |
+| Interests | Front-end web design, data analysis |
 
-**Tools**
+---
 
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
-</p>
+## Goals
+
+- [x] Start my coding journey
+- [x] Set up Git, GitHub and VS Code
+- [ ] Build a personal portfolio website
+- [ ] Get comfortable with JavaScript and React
+- [ ] Complete my first data analysis project
+- [ ] Build a small project with Django
+- [ ] Make my first open-source contribution
+
+---
+
+## Fun Facts
+
+- 🧠 Currently running on curiosity and a lot of Google searches
+- 🐛 My debugging method: read the error, panic briefly, then read it again
+- 🎯 My motto: *"Start before you feel ready."*
 
 ---
 
 ## GitHub Stats
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Sadlesage&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sadlesage&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-</p>
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=SaddleSage&theme=dark&hide_border=true" alt="GitHub streak" />
+
+<br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SaddleSage&theme=github_dark" alt="Profile details" />
+
+<br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SaddleSage&theme=github_dark" width="49%" alt="Repos per language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SaddleSage&theme=github_dark" width="49%" alt="Most used languages" />
+
+</div>
 
 ---
 
 ## Get in Touch
 
-<p>
-  <a href="mailto:hardikgyawali8@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://instagram.com/S4ddle_sage">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-</p>
+<div align="center">
 
-<p align="center"><i>Thanks for stopping by! ⭐</i></p>
+<a href="mailto:hardikgyawali8@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://instagram.com/S4ddle_sage">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
+<a href="https://github.com/SaddleSage">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+
+<br><br>
+
+<i>Thanks for stopping by, and feel free to leave a ⭐ if you like what you see!</i>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:0f172a&height=100&section=footer" alt="Footer" />
+
+</div>
 ````
 ````
+
+Your profile README repo must also be named exactly `SaddleSage` (matching the username) for it to show on your profile page. If you'd like the displayed name to be something different from the username, tell me and I'll change it.
