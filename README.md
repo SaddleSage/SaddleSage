@@ -1,9 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:3b82f6&height=190&section=header&text=SaddleSage&fontColor=ffffff&fontSize=60&fontAlignY=38&desc=Student%20%7C%20Beginner%20Front-End%20Designer%20%7C%20Aspiring%20Data%20Analyst&descSize=16&descAlignY=60" alt="SaddleSage banner" />
+# Hi, I'm SaddleSage 👋
+
+**Student · Beginner Front-End Designer · Aspiring Data Analyst**
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=3B82F6&center=true&vCenter=true&width=560&lines=Hi%2C+I'm+SaddleSage+%F0%9F%91%8B;I'm+a+student+and+a+complete+beginner;Learning+front-end+web+design;Taking+my+first+steps+in+data+analysis;Building+things+one+commit+at+a+time" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=3B82F6&center=true&vCenter=true&width=560&lines=I'm+a+student+and+a+complete+beginner;Learning+front-end+web+design;Taking+my+first+steps+in+data+analysis;Building+things+one+commit+at+a+time" alt="Typing intro" />
 </a>
 
 <br><br>
@@ -129,10 +131,6 @@ Django      [██░░░░░░░░]  20%
 
 <i>Thanks for stopping by, and feel free to leave a ⭐ if you like what you see!</i>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:0f172a&height=100&section=footer" alt="Footer" />
-
 </div>
 ````
 ````
-
-Your profile README repo must also be named exactly `SaddleSage` (matching the username) for it to show on your profile page. If you'd like the displayed name to be something different from the username, tell me and I'll change it.
